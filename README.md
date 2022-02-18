@@ -5,6 +5,12 @@ This program simulates a simplified ATM machine that displays the account balanc
 
 As this is a simplified version of what a typical ATM can do, the full range of functionality is currently limited to PIN verification and checking the account balance. To deposit and to withdraw funds are examples of additional features to include in the future. 
 
-## To use the program:
+## Sample Run
+**Valid PIN Entry**            |  **Failed PIN Entry**
+:-------------------------:|:-------------------------:
+<img src="https://github.com/junmian/atm-pin-code-prompt/blob/main/valid-pin.png" alt="Valid PIN Entry"> | <img src="https://github.com/junmian/atm-pin-code-prompt/blob/main/invalid-pin.png" alt="Failed PIN Entry">
+
+
+## To Run the Program:
 - Install Python (prerequisite)
 - In Command Prompt, run ```atm_pin_code_prompt.py```
